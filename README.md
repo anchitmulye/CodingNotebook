@@ -2,7 +2,7 @@
 
 ## LeetCode
 
-Solution of the Leetcode problems in C++.
+Solution of the Leetcode problems in Python.
 
 ### Index
 
